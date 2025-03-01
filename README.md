@@ -1,3 +1,28 @@
+<div id="headers" align="center">
+  <h1>Hi! I'm Seryoja</h1>
+  <h3>RPA Developer</h3>
+</div>
+<div id="badges" align="center">
+  <a href="https://t.me/afanasevss">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
+  </a>
+</div>
+<div id="codewars" align="center">
+  <a href="https://www.codewars.com/users/AFSRPA">
+    <img src="https://www.codewars.com/users/AFSRPA/badges/micro" alt="Codewars" />
+</div>
+    
+<div align="center">
+  <img src="https://github.com/afanserrpa/afanserrpa/blob/main/image_banner.jpg" width="800"/>
+</div>
+<div id="tech stack" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="CSharp" **alt="CSharp" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Golang" **alt="Golang" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="40" height="40" />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40" />
+</div>
+
 <!--
 ## Hi there 👋
 
@@ -14,6 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="https://github.com/afanserrpa/afanserrpa/blob/main/image_banner.jpg">
-</div>
